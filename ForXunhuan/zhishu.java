@@ -1,4 +1,4 @@
-package java.learning.ForXunhuan;
+package java_learning.ForXunhuan;
 
 public class zhishu {
     public static void main(String[] args) {

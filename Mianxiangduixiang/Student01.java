@@ -1,10 +1,9 @@
-package java.learning.Mianxiangduixiang;
+package java_learning.Mianxiangduixiang;
 
-import Mianxiangduixiang.Student;
 
 public class Student01 {
     public static void main(String[] args) {
-        Mianxiangduixiang.Student i=new Mianxiangduixiang.Student();
+        Student i=new Student();
         i.age=20;
         i.gender=false;
         i.name="张春华";
@@ -14,7 +13,7 @@ public class Student01 {
 
 
 
-        Mianxiangduixiang.Student j=new Student();
+        Student j=new Student();
         j.name="闫江桦";
         j.age=20;
         j.gender=true;

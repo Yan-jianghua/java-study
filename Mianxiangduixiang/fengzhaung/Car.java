@@ -1,4 +1,4 @@
-package java.learning.Mianxiangduixiang.fengzhaung;
+package java_learning.Mianxiangduixiang.fengzhaung;
 
 public class Car {
     private String PinPai;

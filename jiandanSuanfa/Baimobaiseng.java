@@ -1,4 +1,4 @@
-package java.learning.jiandanSuanfa;
+package java_learning.jiandanSuanfa;
 
 public class Baimobaiseng {
     public static void main(String[] args) {

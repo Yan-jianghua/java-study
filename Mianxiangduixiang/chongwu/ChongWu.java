@@ -1,4 +1,4 @@
-package java.learning.Mianxiangduixiang.chongwu;
+package java_learning.Mianxiangduixiang.chongwu;
 
 import java.util.Scanner;
 

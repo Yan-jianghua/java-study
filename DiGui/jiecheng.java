@@ -1,4 +1,4 @@
-package java.learning.DiGui;
+package java_learning.DiGui;
 
 import java.util.Scanner;
 

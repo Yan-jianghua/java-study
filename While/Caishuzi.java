@@ -1,4 +1,4 @@
-package java.learning.While;
+package java_learning.While;
 
 public class Caishuzi {
     public static void main(String[] args) {

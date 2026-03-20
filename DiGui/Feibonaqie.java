@@ -1,4 +1,4 @@
-package java.learning.DiGui;
+package java_learning.DiGui;
 
 public class Feibonaqie {
     public static void main(String[] args) {

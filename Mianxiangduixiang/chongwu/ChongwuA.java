@@ -1,10 +1,9 @@
-package java.learning.Mianxiangduixiang.chongwu;
+package java_learning.Mianxiangduixiang.chongwu;
 
-import Mianxiangduixiang.chongwu.ChongWu;
 
 public class ChongwuA {
     public static void main(String[] args) {
-        Mianxiangduixiang.chongwu.ChongWu chongwu1=new ChongWu();
+        ChongWu chongwu1=new ChongWu();
         chongwu1.name="张春华";
         chongwu1.sex=false;
         chongwu1.Jiao="汪汪";

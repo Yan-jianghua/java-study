@@ -1,4 +1,4 @@
-package java.learning.Method;
+package java_learning.Method;
 
 public class Denglu {
     public static void main(String[] args) {

@@ -1,10 +1,10 @@
-package java.learning.Mianxiangduixiang.fengzhaung;
+package java_learning.Mianxiangduixiang.fengzhaung;
 
-import Mianxiangduixiang.fengzhaung.Car;
+
 
 public class CarA {
     public static void main(String[] args) {
-        Mianxiangduixiang.fengzhaung.Car E300=new Car();
+        Car E300=new Car();
         E300.setPinPai("梅赛德斯-奔驰");
         E300.setColor("黑色");
         E300.setJiaGe(40);

@@ -1,4 +1,4 @@
-package java.learning.DiGui;
+package java_learning.DiGui;
 
 public class qiuhe {
     public static void main(String[] args) {
