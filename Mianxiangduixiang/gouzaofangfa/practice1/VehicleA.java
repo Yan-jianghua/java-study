@@ -1,4 +1,4 @@
-package java_learning.Mianxiangduixiang.gouzaofangfa.text1.practice1;
+package java_learning.Mianxiangduixiang.gouzaofangfa.practice1;
 
 import java.util.Scanner;
 
