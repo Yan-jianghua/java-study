@@ -22,7 +22,7 @@ public class Vehicle {
     }
     public  void speedUp(){
         System.out.println("正在以每次加"+this.getSpeedUp()+"迈的加速度加速中");
-        this.setSpeed(this.getSpeed()+this.getSpeedUp());
+        this 32..setSpeed(this.getSpeed()+this.getSpeedUp());
     }
 
     public void speedDown(){
